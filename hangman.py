@@ -57,3 +57,5 @@ def print_hang(guesses):
 #dictionary = text.read().split('\n')
 #for x in range(len(dictionary)):
 #	print(dictionary[x])
+
+#test
